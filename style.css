@@ -1,5 +1,13 @@
 body {
-    background: linear-gradient(45deg, rgb(143, 143, 143), rgb(0, 0, 0));
+    background-color: rgb(226, 226, 226);
+}
+
+header img {
+    display: inline-block;
+    max-width: 30%;
+    margin: 10px;
+    text-align: center;
+    border: 4px solid #a7a7a7;
 }
 /* Navigation Bar */
 ul {
@@ -44,14 +52,11 @@ li:last-child {
 
 /* Image Gallery */
 div.gallery {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 180px;
-}
-
-div.gallery:hover {
-    border: 1px solid #777;
+    display: inline-block;
+    max-width: 30%;
+    margin: 10px;
+    text-align: center;
+    border: 4px solid #a7a7a7;
 }
 
 div.gallery img {
