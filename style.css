@@ -1,5 +1,5 @@
 body {
-    background-color: #111;
+    background: linear-gradient(45deg, rgb(143, 143, 143), rgb(0, 0, 0));
 }
 /* Navigation Bar */
 ul {
