@@ -1,0 +1,28 @@
+body {
+    font-family: "poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+header {
+    background-color: #fff;
+    height: 100px;
+}
+
+h1 {
+    /* float : left */
+    margin: 100px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    margin: 0 0 10px 10px;
+    background-color: green;
+}
+
+.red {
+    border: 4pc solid red;
+    background-color: pink;
+}
